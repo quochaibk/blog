@@ -1,0 +1,8 @@
+config={
+    'database': {
+        'username': 'root',
+        'password': '123456',
+        'hostname': 'localhost',
+        'db':     : 'blog'
+    }
+}
