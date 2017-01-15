@@ -13,6 +13,6 @@ setup(
     name="blog",
     version=__init__.__version__,
     packages=find_packages(),
-    install_requires=['flask>=0.11.1'],
+    install_requires=['flask>=0.11.1','MySQL-python'],
     author="quochai.kstn@gmail.com"
 )
